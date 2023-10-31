@@ -8,6 +8,7 @@ var cts = new CancellationTokenSource();
 var ct = cts.Token;
 var col = 0;
 
+Console.Clear();
 Console.WriteLine("Hello, Spinners!");
 
 var livePos = Console.GetCursorPosition();

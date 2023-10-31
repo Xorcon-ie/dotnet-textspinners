@@ -2,6 +2,9 @@
 
 <div align="center">
     A little package to create .NET CLI spinners.
+
+  ![Spinners](images/spinners.gif)
+
 </div>
 
 ---
